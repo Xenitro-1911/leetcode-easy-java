@@ -24,7 +24,7 @@ Each problem folder contains:
 
 ---
 
-## Problems Solved (35)
+## Problems Solved (59)
 
 | # | Problem | Topic |
 |---|---------|-------|
@@ -63,6 +63,30 @@ Each problem folder contains:
 | 145 | Binary Tree Postorder Traversal | Tree/DFS |
 | 160 | Intersection of Two Linked Lists | Linked List |
 | 168 | Excel Sheet Column Title | Math/String |
+| 169 | Majority Element | Boyer-Moore Voting |
+| 171 | Excel Sheet Column Number | Math/String |
+| 190 | Reverse Bits | Bit Manipulation |
+| 191 | Number of 1 Bits | Bit Manipulation |
+| 202 | Happy Number | Fast & Slow Pointers |
+| 203 | Remove Linked List Elements | Linked List |
+| 205 | Isomorphic Strings | HashMap |
+| 206 | Reverse Linked List | Linked List |
+| 217 | Contains Duplicate | HashSet |
+| 219 | Contains Duplicate II | Sliding Window/HashSet |
+| 222 | Count Complete Tree Nodes | Binary Search/Tree |
+| 225 | Implement Stack using Queues | Queue/Stack |
+| 226 | Invert Binary Tree | Tree/DFS |
+| 228 | Summary Ranges | Two Pointers |
+| 231 | Power of Two | Bit Manipulation |
+| 232 | Implement Queue using Stacks | Stack/Queue |
+| 234 | Palindrome Linked List | Fast & Slow Pointers |
+| 242 | Valid Anagram | Frequency Array |
+| 257 | Binary Tree Paths | Tree/DFS/Backtracking |
+| 258 | Add Digits | Math/Digital Root |
+| 263 | Ugly Number | Math |
+| 268 | Missing Number | Math/Gauss Formula |
+| 278 | First Bad Version | Binary Search |
+| 283 | Move Zeroes | Two Pointers |
 
 ---
 
